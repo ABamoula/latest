@@ -1,7 +1,7 @@
 {
-    "newest": 5,
+    "newest": 6,
     "iosbuild": 4,
-    "androidbuild": 5,
+    "androidbuild": 6,
     "macbuild": 4,
     "android": "https://github.com/FrancXPT/CyxTerm/releases/latest/download/app-arm64-v8a-release.apk",
     "ios": "",
