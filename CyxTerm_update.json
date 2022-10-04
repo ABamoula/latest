@@ -1,11 +1,11 @@
 {
-    "newest": 7,
+    "newest": 8,
     "iosbuild": 4,
-    "androidbuild": 7,
+    "androidbuild": 8,
     "macbuild": 4,
     "android": "https://github.com/FrancXPT/CyxTerm/releases/latest/download/app-arm64-v8a-release.apk",
     "ios": "",
     "mac": "",
-    "min": 3,
-    "changelog": "Added F2A"
+    "min": 7,
+    "changelog": "Terminal Rework \nReworked the sidebar\n  more beautiful design and responsive layout"
 }
